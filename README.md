@@ -1,0 +1,1 @@
+# omnimarkuppreviewer-solarizeddark-css
